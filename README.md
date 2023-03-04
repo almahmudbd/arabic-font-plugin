@@ -14,16 +14,19 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to change the font of a single line in a post or page using a shortcode.
 
-== Description ==
+Description
+-----
 
 The Arabic Font Simple plugin provides a simple way to apply a custom font to a single line of text in a post or page using a shortcode. By default, the plugin uses the "noorehira" font, with a font size of 26px and a line gap of 46px. However, you can easily change the font by specifying a different font name in the shortcode.
 
-== Installation ==
+Installation
+-----
 
 Upload the plugin files to the /wp-content/plugins/arabic-font-simple directory, or install the plugin through the WordPress plugins screen directly.
 Activate the plugin through the 'Plugins' screen in WordPress.
 
-== Usage ==
+Usage
+-----
 
 To use the Arabic Font Simple plugin, simply add the following shortcode to the post or page where you want to apply the custom font:
 
@@ -31,17 +34,17 @@ To use the Arabic Font Simple plugin, simply add the following shortcode to the 
 
 This will apply the "noorehira" font to the text, with a font size of 26px and a line gap of 46px. 
 
-== Frequently Asked Questions ==
 
-= How do I change the font, size or line gap? =
+> Currently, the plugin uses a default font as noorehira, font size of 26px and a line gap of 46px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
 
-Currently, the plugin uses a default font as noorehira, font size of 26px and a line gap of 46px. If you want to change the font size and line gap, you will need to edit the plugin css file directly. it will be located under the font folder.
 
-== Changelog ==
+Changelog
+-----
 
-= 1.0 =
+1.0
 Initial release
 
-== Upgrade Notice ==
+Upgrade Notice
+-----
 
 There are no upgrade notices for this version of the plugin.
