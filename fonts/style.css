@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "noorehira";
+  src: url("noorehira.ttf") format("truetype"),
+       url("noorehira.woff") format("woff"),
+       url("noorehira.woff2") format("woff2");
+}
+
+.custom-arabic-font {
+  font-family: noorehira;
+  font-size: 26px;
+  line-height: 44px;
+}
