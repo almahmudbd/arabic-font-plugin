@@ -1,7 +1,7 @@
 Arabic Font Lite
 ==================
 
-[![Github Downloads (total)](https://img.shields.io/github/downloads/almahmudbd/arabic-font-plugin-lite/total?color=blue&style=for-the-badge)](https://github.com/almahmudbd/arabic-font-plugin-lite/releases)
+[![Github Downloads (total)](https://img.shields.io/github/downloads/almahmudbd/arabic-font-plugin/total?color=blue&style=for-the-badge)](https://github.com/almahmudbd/arabic-font-plugin/releases)
 
 Contributors: almahmud & chatgpt
 Plugin URI: https://thealmahmud.blogspot.com/
