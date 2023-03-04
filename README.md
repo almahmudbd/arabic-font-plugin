@@ -35,7 +35,7 @@ To use the Arabic Font Simple plugin, simply add the following shortcode to the 
 This will apply the "noorehira" font to the text, with a font size of 26px and a line gap of 46px. 
 
 
-> Currently, the plugin uses a default font as noorehira, font size of 26px and a line gap of 46px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
+> Currently, the plugin using default font as noorehira, font size of 26px and a line gap of 46px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
 
 
 Changelog
