@@ -17,7 +17,7 @@ This plugin allows you to change the font of a single line in a post or page usi
 Description
 -----
 
-The Arabic Font Simple plugin provides a simple way to apply a custom font to a single line of text in a post or page using a shortcode. By default, the plugin uses the "noorehira" font, with a font size of 26px and a line gap of 46px. However, you can easily change the font by specifying a different font name in the shortcode.
+The Arabic Font Simple plugin provides a simple way to apply a custom font to a single line of text in a post or page using a shortcode. By default, the plugin uses the "noorehira" font, with a font size of 26px and a line gap of 44px. However, you can easily change the font by specifying a different font name in the shortcode.
 
 Installation
 -----
@@ -32,10 +32,10 @@ To use the Arabic Font Simple plugin, simply add the following shortcode to the 
 
 `[arabic]هذا هو نص عربي[/arabic]`
 
-This will apply the "noorehira" font to the text, with a font size of 26px and a line gap of 46px. 
+This will apply the "noorehira" font to the text, with a font size of 26px and a line gap of 44px. 
 
 
-> Currently, the plugin using default font as noorehira, font size of 26px and a line gap of 46px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
+> Currently, the plugin using default font as noorehira, font size of 26px and a line gap of 44px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
 
 
 Changelog
