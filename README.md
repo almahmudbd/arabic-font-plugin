@@ -35,7 +35,7 @@ This will apply the "noorehira" font to the text within the shortcode, with a fo
 If you want to use the same font again on the same page, you can use this code again, or you can add the `custom-arabic-font` class to any HTML element to apply the custom font style. For example:
 
 ```html
-<span class="custom-arabic-font">بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </span>
+<span class="custom-arabic-font">بِسْمِ اللّٰہِ  الرَّحۡمٰنِ الرَّحِیۡمِ </span>
 ```
 
 > Currently, the plugin uses the default font "noorehira" with a font size of 26px and a line gap of 44px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. The CSS and font files are located in the `font` folder.
