@@ -30,7 +30,7 @@ Usage
 
 To use the Arabic Font Simple plugin, simply add the following shortcode to the post or page where you want to apply the custom font:
 
-`[arabic]Your text goes here[/arabic]`
+`[arabic]هذا هو نص عربي[/arabic]`
 
 This will apply the "noorehira" font to the text, with a font size of 26px and a line gap of 46px. 
 
