@@ -26,7 +26,7 @@ Upload the plugin files to the `/wp-content/plugins/arabic-font-lite` directory,
 To use the Arabic Font Lite plugin, simply add the following shortcode to the post or page where you want to apply the custom font:
 
 
-```bbcode
+```html
 [arabic]هذا هو نص عربي[/arabic]
 ```
 
@@ -43,11 +43,9 @@ If you want to use the same font again on the same page, you can use this code a
 
 Changelog
 -----
-
 1.0
 Initial release
 
 Upgrade Notice
 -----
-
 There are no upgrade notices for this version of the plugin.
