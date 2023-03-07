@@ -30,9 +30,13 @@ Usage
 
 To use the Arabic Font Simple plugin, simply add the following shortcode to the post or page where you want to apply the custom font:
 
-`[arabic]هذا هو نص عربي[/arabic]`
+```[arabic]هذا هو نص عربي[/arabic]```
 
-This will apply the "noorehira" font to the text, with a font size of 26px and a line gap of 44px. 
+This will apply the "noorehira" font to the text within the shortcode, with font size of 26px and line gap of 44px. 
+
+If you want to use the same font again in the same page, you can use this code, or you can add the `custom-arabic-font` class to any HTML element to apply the custom font styles. for example:
+
+```<span class="custom-arabic-font">بِسْمِ اللهِ </span>```
 
 
 > Currently, the plugin using default font as noorehira, font size of 26px and a line gap of 44px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
