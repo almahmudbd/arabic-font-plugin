@@ -14,32 +14,32 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to change the font of a single line in a post or page using a shortcode.
 
-Description
------
+## Description
 
-The Arabic Font Simple plugin provides a simple way to apply a custom font to a single line of text in a post or page using a shortcode. By default, the plugin uses the "noorehira" font, with a font size of 26px and a line gap of 44px. However, you can easily change the font by specifying a different font name in the shortcode.
+The Arabic Font Lite plugin provides a simple way to apply a custom font to a single line of text in a post or page using a shortcode. By default, the plugin uses the "noorehira" font, with a font size of 26px and a line height of 44px. However, you can easily change the font by editing the css file.
 
-Installation
------
+## Installation
 
-Upload the plugin files to the /wp-content/plugins/arabic-font-simple directory, or install the plugin through the WordPress plugins screen directly.
-Activate the plugin through the 'Plugins' screen in WordPress.
+Upload the plugin files to the `/wp-content/plugins/arabic-font-lite` directory, or install the plugin through the WordPress plugins screen directly. Activate the plugin through the 'Plugins' screen in WordPress.
 
-Usage
------
+## Usage
 
-To use the Arabic Font Simple plugin, simply add the following shortcode to the post or page where you want to apply the custom font:
-
-```[arabic]هذا هو نص عربي[/arabic]```
-
-This will apply the "noorehira" font to the text within the shortcode, with font size of 26px and line gap of 44px. 
-
-If you want to use the same font again in the same page, you can use this code, or you can add the `custom-arabic-font` class to any HTML element to apply the custom font styles. for example:
-
-```<span class="custom-arabic-font">بِسْمِ اللهِ </span>```
+To use the Arabic Font Lite plugin, simply add the following shortcode to the post or page where you want to apply the custom font:
 
 
-> Currently, the plugin using default font as noorehira, font size of 26px and a line gap of 44px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. the css and font files are located in the `font` folder.
+```bbcode
+[arabic]هذا هو نص عربي[/arabic]
+```
+
+This will apply the "noorehira" font to the text within the shortcode, with a font size of 26px and line gap of 44px.
+
+If you want to use the same font again on the same page, you can use this code, or you can add the `custom-arabic-font` class to any HTML element to apply the custom font styles. For example:
+
+```html
+<span class="custom-arabic-font">بِسْمِ اللهِ </span>
+```
+
+> Currently, the plugin uses the default font "noorehira" with a font size of 26px and a line gap of 44px. If you want to change the font, size or line gap, you will need to edit the plugin code directly. The CSS and font files are located in the `font` folder.
 
 
 Changelog
