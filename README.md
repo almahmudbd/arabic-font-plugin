@@ -7,10 +7,9 @@ Contributors: almahmud & chatgpt
 Plugin URI: https://thealmahmud.blogspot.com/
 Tags: arabic, font, shortcode
 Requires at least: 5.0
-Tested up to: 5.9
+Tested up to: 6.1.1
 Stable tag: 1.0
-License: GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPL2 (https://www.gnu.org/licenses/gpl-2.0.html)
 
 This plugin allows you to change the font of a single line in a post or page using a shortcode.
 
