@@ -4,7 +4,7 @@ Plugin Name: Arabic Font Lite
 Plugin URI: https://ruqyahbd.org/
 Description: This plugin allows you to change the font of a single line in a post using a shortcode.
 Author: almahmud
-Version: 1.0
+Version: 1.2
 Author URI: https://ruqyahbd.org/
 */
 
