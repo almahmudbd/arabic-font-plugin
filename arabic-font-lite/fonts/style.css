@@ -8,5 +8,6 @@
 .custom-arabic-font {
   font-family: noorehira;
   font-size: 26px;
-  line-height: 44px;
+  line-height: 2.8rem;
+    direction: rtl;
 }
